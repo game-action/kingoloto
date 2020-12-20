@@ -1,6 +1,6 @@
 {
   "name": "@game-action/kingoloto",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "kingoloto to play grids",
   "types": "build/index.d.ts",
   "main": "build/index.js",
